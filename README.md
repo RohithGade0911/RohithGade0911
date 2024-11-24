@@ -1,15 +1,11 @@
-👋 Hi there, I'm Rohith Gade, a data enthusiast with a passion for uncovering insights through data. I bring a broad knowledge base and practical experience in data engineering, leveraging a variety of languages and tools to analyze, manipulate, and visualize data across multiple platforms.
+👋 Hi there, I'm Rohith Gade, a data enthusiast with a passion for uncovering insights through data analysis. I bring a broad knowledge base and practical experience in data analysis, utilizing various languages and tools to derive actionable insights and visualize data across multiple domains.
 
-🔍 My Mission: To harness the complexity of data into actionable insights. With expertise in SQL, Python (pandas), R, Java, C, and PySpark, I am adept at processing and analyzing data to drive decisions and innovations.
+🔍 My Mission: To turn data into valuable insights that drive strategic decision-making. With expertise in SQL, Python (pandas), R, and Power BI, I specialize in data manipulation, statistical analysis, and data visualization to help businesses make informed decisions.
 
-🛠 Technological Proficiency:
-• Languages: Proficient in Python (pandas), R, Java, C, SQL (MySQL, PostgreSQL, DDL, NoSQL), JSON, XML, PySpark, and Kornshell.
-• Tools: Skilled in using Git, AWS (S3, Lambda, Glue, Quicksight), Azure, GCP, Kafka, Splunk, Salesforce CRM, Terraform, and Power BI.
-• Big Data Ecosystem: Experienced with Apache Kafka, Hadoop, Airflow, Hive, Spark, Snowflake, Splunk, Docker, Scala, SSIS, ODI, EMR.
-• Other Skills: Agile methodologies, Data Modeling, TDD, Data Warehouse, Machine Learning (ML), Data Analysis.
+🛠 Technological Proficiency: • Languages: Proficient in Python (pandas), R, SQL (MySQL, PostgreSQL), Java, C, and tools like Excel and Tableau for advanced analytics. • Tools & Frameworks: Skilled in using Power BI, Tableau, Google Data Studio, Looker, Git, and Jupyter Notebooks for data visualization and reporting. • Cloud Platforms: Experienced with AWS, Azure, GCP for data storage, processing, and visualization. • Data Analysis Skills: Data Cleaning, Statistical Modeling, Data Transformation, Feature Engineering, A/B Testing, Data Quality, and Exploratory Data Analysis (EDA).
 
-📈 Project Portfolio: My projects span across these technologies, showcasing my ability to navigate and excel in the data engineering domain. Each project reflects my commitment to excellence and a deep understanding of the necessary tools and frameworks required for top-tier data engineering roles.
+📊 Project Portfolio: My projects showcase my ability to leverage data to uncover trends, optimize business processes, and create compelling visualizations that support data-driven decisions. I have hands-on experience analyzing and visualizing datasets from various domains such as healthcare, finance, and e-commerce.
 
-🌱 Always Growing: I am continuously exploring new technologies and methodologies to stay at the forefront of data engineering. I am keen on contributing to innovative projects and collaborating with professionals who share a passion for data.
+🌱 Always Growing: I am continually learning new techniques and exploring emerging technologies to enhance my data analysis capabilities. I am passionate about transforming complex data into understandable insights that drive business growth.
 
-💼 Let's Connect: Dive into my profile to explore my projects and the impact of my work. If you're interested in discussing data engineering, potential collaborations, or just want to exchange ideas, please feel free to reach out!
+💼 Let's Connect: Explore my profile to see the impact of my work in data analysis. If you're interested in discussing data analysis, potential collaborations, or simply want to exchange ideas, feel free to reach out!
