@@ -1,11 +1,35 @@
-👋 Hi there, I'm Rohith Gade, a data enthusiast with a passion for uncovering insights through data analysis. I bring a broad knowledge base and practical experience in data analysis, utilizing various languages and tools to derive actionable insights and visualize data across multiple domains.
+# 🤖 AI Automation Engineer | AI Workflow Architect | Agentic Workflow Designer  
 
-🔍 My Mission: To turn data into valuable insights that drive strategic decision-making. With expertise in SQL, Python (pandas), R, and Power BI, I specialize in data manipulation, statistical analysis, and data visualization to help businesses make informed decisions.
+👋 **Hi there, I'm Rohith Gade!**  
+I specialize in **AI-powered workflow automation** using **n8n**, designing intelligent **agentic workflows** that streamline business operations, reduce manual effort, and enable scalable automation.  
 
-🛠 Technological Proficiency: • Languages: Proficient in Python (pandas), R, SQL (MySQL, PostgreSQL), Java, C, and tools like Excel and Tableau for advanced analytics. • Tools & Frameworks: Skilled in using Power BI, Tableau, Google Data Studio, Looker, Git, and Jupyter Notebooks for data visualization and reporting. • Cloud Platforms: Experienced with AWS, Azure, GCP for data storage, processing, and visualization. • Data Analysis Skills: Data Cleaning, Statistical Modeling, Data Transformation, Feature Engineering, A/B Testing, Data Quality, and Exploratory Data Analysis (EDA).
+## 🔍 Mission  
+To **design and implement AI-driven automation solutions** that integrate Large Language Models (LLMs), APIs, and data pipelines—creating seamless, intelligent workflows with **minimal human intervention**.  
 
-📊 Project Portfolio: My projects showcase my ability to leverage data to uncover trends, optimize business processes, and create compelling visualizations that support data-driven decisions. I have hands-on experience analyzing and visualizing datasets from various domains such as healthcare, finance, and e-commerce.
+## 🛠 Technological Proficiency  
 
-🌱 Always Growing: I am continually learning new techniques and exploring emerging technologies to enhance my data analysis capabilities. I am passionate about transforming complex data into understandable insights that drive business growth.
+### ⚡ Workflow Automation  
+- **n8n** – End-to-end business process automation.  
 
-💼 Let's Connect: Explore my profile to see the impact of my work in data analysis. If you're interested in discussing data analysis, potential collaborations, or simply want to exchange ideas, feel free to reach out!
+### 🧠 AI & LLMs  
+- **GPT-powered AI agents**, embeddings, vector search, LangChain, OpenAI API, Gemini API, Anthropic API.  
+
+### 🗃️ Data & Scripting  
+- **Python** (pandas, requests, LangChain), **JavaScript** (Node.js, JSON processing).  
+- **SQL** (PostgreSQL, MySQL) – Data manipulation & automation logic.  
+
+### ☁️ Cloud & APIs  
+- **AWS, Azure, GCP** – Serverless automation, cloud-based workflows.  
+- **RESTful APIs, Web Scraping** – Integrating third-party services into workflows.  
+
+## 🚀 What I Build  
+- **AI-Powered Agents** – Automating **email classification, decision-making, and autonomous workflows**.  
+- **End-to-End Workflow Automation** – Automating **data extraction, reporting, notifications, and task delegation**.  
+- **Web Scraping & API Integrations** – Connecting multiple services for seamless data flow.  
+- **AI-Driven Analytics & Insights** – Automating **dashboards and reports** for real-time business intelligence.  
+
+## 🌱 Always Innovating  
+I constantly explore **emerging AI automation trends**, refining my approach to **agentic workflows, autonomous task execution, and scalable n8n architectures**.  
+
+## 💼 Let’s Connect  
+🚀 If you're looking to implement **AI-powered automation, optimize workflows, or explore agentic AI systems**, feel free to reach out!  
